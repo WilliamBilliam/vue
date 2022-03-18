@@ -1,9 +1,17 @@
 {
     "title": "WILLYPEPS RESTAURANT",
-    "description": "Welcome to my coffee house where you get the best coffee around in town come one come all 'WE SERVE ALL PERSONS' ",
-    "hours": [
-        {"day": "Mon-Fri", "time": "6am-10pm"},
-        {"day": "Saturday", "time": "7am-9pm"},
-        {"day": "Sunday", "time": "Closed"}
+    "description": "Welcome to my coffee house where you get the best coffee around in town come one come all 'WE SERVE EVERYONE' ,Live, love, eat. That is our new mantra!   ",
+    "hours": [{
+            "day": "Mon-Fri",
+            "time": "6am-10pm"
+        },
+        {
+            "day": "Saturday",
+            "time": "7am-9pm"
+        },
+        {
+            "day": "Sunday",
+            "time": "Closed"
+        }
     ]
 }

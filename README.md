@@ -1,28 +1,31 @@
-# coffee-shop
+# WILLYPEPS-RESTAURANT
 
-This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
+This project was built with Turbo 360. To learn more, click here: <https://www.turbo360.co>
 
-## Instructions
-After cloning into repo, cd to project root directory and install dependencies:
+<!-- instructions-->
 
-```
-$ npm install
-```
+After cloning the repository, cd to project root directory and install dependencies:
 
-To run dev server, install Turbo CLI globally:
+<!-- install dependencies-->
 
-```
-$ sudo npm install turbo-cli -g
-```
+npm install
+
+To run dev server, install Turbo CLI glo
+
+<!-- install turbo-cli globally-->
+
+linux sudo npm install turbo-cli -g
+
+windows npm install turbo-cli -g
 
 Then run devserver from project root directory:
 
-```
-$ turbo devserver
-```
+<!-- to run your project-->
+
+turbo devserver
 
 To build for production, run build:
 
-```
-$ npm run build
-```
+<!-- build for production-->
+
+npm run build
